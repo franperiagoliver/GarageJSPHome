@@ -1,0 +1,9 @@
+com\everis\alicante\becajava\implementaciones\ClientDAOJPAImplTest.class
+com\everis\alicante\becajava\domain\VehicleTest.class
+com\everis\alicante\becajava\implementaciones\BookingDAOJPAImplTest.class
+com\everis\alicante\becajava\implementaciones\ParkingPlaceDAOJPAImplTest.class
+com\everis\alicante\becajava\domain\ClientTest.class
+com\everis\alicante\becajava\services\implementaciones\BookingServiceImplTest.class
+com\everis\alicante\becajava\domain\BookingTest.class
+com\everis\alicante\becajava\domain\ParkingplaceTest.class
+com\everis\alicante\becajava\implementaciones\VehicleDAOJPAImplTest.class
